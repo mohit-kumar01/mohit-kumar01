@@ -6,8 +6,6 @@
 
 Building tools that make the web safer — one scan at a time.
 
-[![GitHub followers](https://img.shields.io/github/followers/mohit-kumar01?style=flat-square&color=0e75b6&label=Followers)](https://github.com/mohit-kumar01)
-[![Profile Views](https://komarev.com/ghpvc/?username=mohit-kumar01&style=flat-square&color=0e75b6)](https://github.com/mohit-kumar01)
 
 </div>
 
@@ -60,19 +58,9 @@ Building tools that make the web safer — one scan at a time.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit-kumar01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-kumar01&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Connect With Me
 
